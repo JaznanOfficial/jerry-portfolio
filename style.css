@@ -1,0 +1,100 @@
+body{
+    background-color: white;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    padding: 0%;
+}
+
+.main{
+    
+    margin: 5% 5% 5% 10%;
+    padding:0px 0px;
+    display: flex;
+    box-shadow: 15px 15px 45px #C9C9CB;
+    border-bottom-right-radius: 100px;
+    border-top-left-radius: 100px;
+}
+
+
+
+
+h3{
+    text-align: center;
+    font-weight: 900;
+}
+
+h5{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    text-align: justify;
+    font-size: 15px;
+    font-weight: 900;
+    line-height: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: #74767c;
+}
+
+a:hover{
+    color: darkblue;
+}
+
+
+.left-div{
+    background-color: #e7effd;
+    max-width: 100%;
+    max-height: 100%;
+    width: 25%;
+    height: 100%;
+    padding: 20px;
+    margin: none;
+    border-top-left-radius: 100px;
+}
+
+.left-div p{
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+.left-div img{
+    width: 150px;
+    height: 150px;
+}
+
+.right-div{
+    background-color: white;
+    background-position: right;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    max-height: 100%;
+    width: 50%;
+    height: 100%;
+    padding:175px 0px 15px 135px;
+}
+
+.right-div a{
+    padding: 10px 7px;
+    background-image: linear-gradient(#5864DE,#7F2CD7);
+    color: rgb(253, 253, 253);
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+
+.third-div{
+    background-image: url(my-bg2.png);
+    width: 130%;
+}
+
+h1{
+    color: orange;
+    font-size: 50px;
+    line-height: 30px;
+}
