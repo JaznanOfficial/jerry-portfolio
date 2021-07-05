@@ -7,7 +7,7 @@ body{
 }
 
 .main{
-    
+    max-width: 100%;
     margin: 5% 5% 5% 10%;
     padding:0px 0px;
     display: flex;
@@ -91,6 +91,7 @@ a:hover{
 .third-div{
     background-image: url(my-bg2.png);
     width: 130%;
+    max-width: 100%;
 }
 
 h1{
